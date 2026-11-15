@@ -24,15 +24,14 @@ I lead product planning, client communication and delivery for custom CRM system
 
 Seven projects from our public portfolio. Each case study explains the workflow and my role in product direction and team delivery.
 
-| Project | What it brings together |
-| --- | --- |
-| [**LiveInterview OS**](PORTFOLIO.md#liveinterview-os) | Company workspaces, candidate sessions, interviews, transcripts and report review |
-| [**GLV Team**](PORTFOLIO.md#glv-team) | Workforce operations, HR, attendance, projects, tasks and sales follow-ups |
-| [**WhatsApp AI CRM**](PORTFOLIO.md#whatsapp-ai-crm) | Shared conversations, business knowledge, consultant ownership and human handover |
-| [**Hireflig**](PORTFOLIO.md#hireflig) | Guided one-way video interviews, candidate invitations and recruitment administration |
-| [**GLV Marketing**](PORTFOLIO.md#glv-marketing) | Campaign setup, contact batches, scheduling, follow-ups and reply management |
-| [**MasterSEOEngine**](PORTFOLIO.md#masterseoengine) | SEO analysis, keyword research, prioritized work and reporting |
-| [**GLV Infotech Website**](PORTFOLIO.md#glv-infotech-website) | Services, product presentation, responsive layouts and enquiry journeys |
+<table>
+<tr><td width="50%" valign="top"><a href="PORTFOLIO.md#liveinterview-os"><img src="assets/projects/liveinterview-os.png" alt="LiveInterview OS portfolio preview" width="420"></a><br><strong><a href="PORTFOLIO.md#liveinterview-os">LiveInterview OS</a></strong><br>Candidate sessions, interviews, transcripts and report review.</td><td width="50%" valign="top"><a href="PORTFOLIO.md#glv-team"><img src="assets/projects/glv-team.png" alt="GLV Team portfolio preview" width="420"></a><br><strong><a href="PORTFOLIO.md#glv-team">GLV Team</a></strong><br>Workforce, HR, attendance, projects and sales follow-ups.</td></tr>
+<tr><td width="50%" valign="top"><a href="PORTFOLIO.md#whatsapp-ai-crm"><img src="assets/projects/whatsapp-crm.png" alt="WhatsApp AI CRM portfolio preview" width="420"></a><br><strong><a href="PORTFOLIO.md#whatsapp-ai-crm">WhatsApp AI CRM</a></strong><br>Demo interface preview of the CRM communication workflow.</td><td width="50%" valign="top"><a href="PORTFOLIO.md#hireflig"><img src="assets/projects/hireflig.png" alt="Hireflig portfolio preview" width="420"></a><br><strong><a href="PORTFOLIO.md#hireflig">Hireflig</a></strong><br>Guided video interviews and recruitment administration.</td></tr>
+<tr><td width="50%" valign="top"><a href="PORTFOLIO.md#glv-marketing"><img src="assets/projects/glv-marketing.png" alt="GLV Marketing portfolio preview" width="420"></a><br><strong><a href="PORTFOLIO.md#glv-marketing">GLV Marketing</a></strong><br>Campaigns, scheduling, follow-ups and reply management.</td><td width="50%" valign="top"><a href="PORTFOLIO.md#masterseoengine"><img src="assets/projects/masterseoengine.png" alt="MasterSEOEngine portfolio preview" width="420"></a><br><strong><a href="PORTFOLIO.md#masterseoengine">MasterSEOEngine</a></strong><br>SEO research and reporting. Illustrative dashboard metrics.</td></tr>
+<tr><td width="50%" valign="top"><a href="PORTFOLIO.md#glv-infotech-website"><img src="assets/projects/glv-website.png" alt="GLV Infotech Website portfolio preview" width="420"></a><br><strong><a href="PORTFOLIO.md#glv-infotech-website">GLV Infotech Website</a></strong><br>Services, responsive layouts and enquiry journeys.</td><td valign="middle" align="center"><img src="assets/glv-logo.png" alt="GLV Infotech Solutions logo" width="260"><br><strong>Ideas · Technology · A Better Tomorrow</strong></td></tr>
+</table>
+
+*Product visualizations and demo previews. Illustrated metrics are not verified client outcomes.*
 
 [**Explore all seven case studies →**](PORTFOLIO.md)
 

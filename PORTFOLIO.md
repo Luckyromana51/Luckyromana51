@@ -1,10 +1,14 @@
 # Selected product work
 
+<p align="left"><img src="assets/glv-logo.png" alt="GLV Infotech Solutions logo" width="180"></p>
+
 This portfolio summarizes publicly described projects from GLV Infotech Solutions. My contribution is founder-led product planning, requirements, workflow design, UX direction and delivery coordination with our development team.
 
 [View the illustrated portfolio on Upwork](https://www.upwork.com/freelancers/~01183a77d6d9886708) · [Back to profile](README.md)
 
 ## LiveInterview OS
+
+![LiveInterview OS — portfolio preview](assets/projects/liveinterview-os.png)
 
 **Recruitment SaaS · Company workspaces · Candidate-to-report workflow**
 
@@ -16,6 +20,8 @@ Hiring teams need to coordinate interview setup, candidate sessions and review. 
 
 ## GLV Team
 
+![GLV Team — portfolio preview](assets/projects/glv-team.png)
+
 **Workforce operations · CRM · HR and team workflows**
 
 GLV Team brings projects, tasks, HR, attendance, payroll review, sales follow-ups and meetings into a connected internal workspace. Owner, manager and staff experiences organize responsibilities and access around the work each person needs to do.
@@ -25,6 +31,8 @@ GLV Team brings projects, tasks, HR, attendance, payroll review, sales follow-up
 **My contribution:** product direction, operational requirements, interface review and delivery coordination with our team.
 
 ## WhatsApp AI CRM
+
+![WhatsApp AI CRM — portfolio preview](assets/projects/whatsapp-crm.png)
 
 **Shared inbox · Business knowledge · Human handover**
 
@@ -36,6 +44,8 @@ The CRM connects customer conversations, consultant ownership, business knowledg
 
 ## Hireflig
 
+![Hireflig — portfolio preview](assets/projects/hireflig.png)
+
 **One-way video interviews · Guided candidate experience**
 
 Hireflig supports candidate invitations, question playback, thinking time, timed answers and submission. The administrative experience organizes interview settings, invitations and candidate progress.
@@ -45,6 +55,8 @@ Hireflig supports candidate invitations, question playback, thinking time, timed
 **My contribution:** product requirements, candidate-flow planning, interface review and delivery coordination.
 
 ## GLV Marketing
+
+![GLV Marketing — portfolio preview](assets/projects/glv-marketing.png)
 
 **Campaign operations · Scheduling · Follow-ups and replies**
 
@@ -56,6 +68,8 @@ The platform organizes contact batches, campaign creation, mailbox selection, se
 
 ## MasterSEOEngine
 
+![MasterSEOEngine — portfolio preview](assets/projects/masterseoengine.png)
+
 **SEO research · Prioritized work · Dashboard and reporting**
 
 An SEO platform project designed to organize website analysis, keyword research, prioritized tasks and reporting across websites. The product direction connects research findings with actions a team can review and manage.
@@ -65,6 +79,8 @@ An SEO platform project designed to organize website analysis, keyword research,
 The public dashboard visual is a product visualization. Its metrics are illustrative, not verified client results or a guarantee of rankings.
 
 ## GLV Infotech Website
+
+![GLV Infotech Website — portfolio preview](assets/projects/glv-website.png)
 
 **Business website · Service presentation · Enquiry journeys**
 

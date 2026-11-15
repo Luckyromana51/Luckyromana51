@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Gurdeep Singh Romana — GLV Infotech Solutions</title>
+<desc id="desc">Founder and product lead. Custom CRM, SaaS and AI-assisted business workflows.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eff7ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient><linearGradient id="accent" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#164cde"/><stop offset="1" stop-color="#35cef0"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<circle cx="1110" cy="70" r="230" fill="#deefff"/>
+<circle cx="1145" cy="265" r="185" fill="#d5f6fc" opacity=".7"/>
+<rect x="46" y="45" width="56" height="7" rx="3.5" fill="url(#accent)"/>
+<text x="46" y="90" fill="#225db4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2">GLV INFOTECH SOLUTIONS</text>
+<text x="44" y="153" fill="#102e64" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">Gurdeep Singh Romana</text>
+<text x="46" y="195" fill="#36567c" font-family="Arial, Helvetica, sans-serif" font-size="23">Founder · Product direction · Team delivery</text>
+<rect x="46" y="229" width="350" height="36" rx="18" fill="#e1edff"/>
+<text x="66" y="253" fill="#174db8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1">CUSTOM CRM  /  SAAS  /  AI WORKFLOWS</text>
+<g transform="translate(866 62)">
+<rect x="10" y="36" width="244" height="162" rx="19" fill="#6aa6e8" opacity=".13"/>
+<rect width="244" height="162" rx="19" fill="white" stroke="#afcfee" stroke-width="2"/>
+<rect x="22" y="22" width="45" height="9" rx="4.5" fill="url(#accent)"/>
+<rect x="22" y="49" width="114" height="8" rx="4" fill="#b6cde9"/>
+<rect x="22" y="66" width="81" height="6" rx="3" fill="#dce6f2"/>
+<rect x="22" y="93" width="55" height="45" rx="9" fill="#e3efff"/>
+<rect x="88" y="93" width="55" height="45" rx="9" fill="#e0f6fb"/>
+<rect x="154" y="93" width="67" height="45" rx="9" fill="#e3efff"/>
+<circle cx="188" cy="44" r="19" fill="url(#accent)"/>
+<path d="m179 44 6 6 12-13" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

@@ -20,6 +20,18 @@ I lead product planning, client communication and delivery for custom CRM system
 | **Internal operations** | Workforce, projects, tasks, HR, attendance and team coordination |
 | **Web & integrations** | Responsive websites, business portals, API connections and existing-system upgrades |
 
+## Technologies and implementation focus
+
+Our development work includes **JavaScript, React, Node.js and PHP**, alongside API integrations and business automation.
+
+| Focus | What it supports |
+| --- | --- |
+| **Web application development** | Responsive interfaces, business portals and connected workflows |
+| **API integration** | Moving information between business tools and customer communication systems |
+| **SaaS application design** | Company workspaces, onboarding, user roles and access control |
+| **AI workflow design** | Relevant business context, response review and human handover |
+| **Quality and delivery** | Reproducible issues, reviewable milestones and complete user-journey checks |
+
 ## Selected product work
 
 Seven projects from our public portfolio. Each case study explains the workflow and my role in product direction and team delivery.
